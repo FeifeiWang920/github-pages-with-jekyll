@@ -1,5 +1,4 @@
 ---
-title: "course about GitHub page"
-data: 2020-04-26
-
+title: "title"
+date: 2020-4-26
 ---
